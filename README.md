@@ -14,3 +14,4 @@ Com estas experências pude entender a perspectiva do usuário e do profissional
 
 Um Desenvolvedor RPA analisa processos repetitivos, sugerindo e implantando automações para salvar horas de esforço, aumentar a produtividade dos profissionais envolvidos no processo, minimizar erros humanos, permitir que as tarefas sejam executadas de forma mais rápida e eficiente, entre outros.
 
+> Para visualizar os projetos realizados, basta acessar a opção "Wiki" no menu superior.
